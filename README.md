@@ -3,7 +3,11 @@ Full ISO 27001 pre-audit simulation for a cloud SaaS entity, focusing on Annex A
 
 OBJECTIVE: Establishing a formal Information Security Management System (ISMS) for an AI-powered SaaS platform.
 # Project Overview
-A brief summary of NexaCore (Karachi-based SaaS) and why the project was initiated (Market expansion into GCC/EU and enterprise security requirements).
+NexaCore Cloud Solutions (Pvt.) Ltd. is a privately held technology company headquartered in Karachi, Pakistan. Founded in 2021, the company operates in the Software-as-a-Service (SaaS) domain, specializing in AI-powered document processing and workflow automation solutions for small and medium-sized enterprises (SMEs) and mid-market organizations.
+
+The company employs approximately 120 personnel distributed across engineering, product, operations, and support functions. NexaCore serves clients across Pakistan, the Gulf Cooperation Council (GCC) region, and select European markets.
+
+The organization is currently in a scale-up phase, transitioning from early-stage product-market fit to enterprise-grade service delivery, with increasing emphasis on security, compliance, and operational maturity.
 ## Key Deliverables
 Risk Management: Developed a $5 \times 5$ Risk Matrix identifying 15+ high-impact cloud risks.
 
