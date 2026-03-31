@@ -1,0 +1,1 @@
+In a live production environment, this folder would contain exports from AWS Identity and Access Management (IAM) and logs from GitHub Actions. For this simulation, the Evidence Log serves as the mapping document for where this data resides.
